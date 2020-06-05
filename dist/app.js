@@ -9,3 +9,9 @@
 // import "@lrnwebcomponents/product-card/lib/hax-element-list-selector.js";
 // import "@lrnwebcomponents/cms-hax/cms-hax.js";
 // import "@lrnwebcomponents/wysiwyg-hax/wysiwyg-hax.js";
+
+import "@lrnwebcomponents/haxcms-elements";
+import "@lrnwebcomponents/h-a-x/h-a-x.js";
+import "mobx/lib/mobx.js";
+import "lit-element/lit-element.js";
+import "@adobe/lit-mobx/lit-mobx.js";
